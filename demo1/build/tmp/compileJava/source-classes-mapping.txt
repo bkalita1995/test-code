@@ -1,0 +1,6 @@
+com/demo1/servlet/MyServlet.java
+ com.demo1.servlet.MyServlet
+com/demo1/config/GuiceConfig.java
+ com.demo1.config.GuiceConfig
+com/demo1/mymodule/MyModule.java
+ com.demo1.mymodule.MyModule
